@@ -25,3 +25,6 @@
 - Bloggers generating ready-to-publish drafts  
 - SEO specialists crafting keyword-focused articles  
 - Students preparing write-ups or summaries  
+
+## 📸 Preview
+![AI Blogger Companion Screenshot](Screenshot_13-8-2025_11423_localhost.jpeg)
